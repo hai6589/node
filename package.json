@@ -1,0 +1,26 @@
+{
+  "name": "js",
+  "version": "1.0.0",
+  "description": "",
+  "main": "js.js",
+  "scripts": {
+    "start": "nodemon --inspect js.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hai6589/quanlyhocvien.git"
+  },
+  "author": "haivu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hai6589/quanlyhocvien/issues"
+  },
+  "homepage": "https://github.com/hai6589/quanlyhocvien#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  },
+  "devDependencies": {
+    "nodemon": "^3.0.1"
+  }
+}
